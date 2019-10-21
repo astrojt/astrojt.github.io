@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year DPhil (PhD) student at the University of Oxford working with Patrick Irwin, Suzanne Aigrain and Vivien Parmentier to perform retrieval analysis of exoplanent atmospheres.
+I'm a third year DPhil (PhD) student at the University of Oxford working with Patrick Irwin, Suzanne Aigrain and Vivien Parmentier to perform retrieval analysis of exoplanet atmospheres.
 
