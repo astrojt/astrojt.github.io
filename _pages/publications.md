@@ -7,9 +7,9 @@ author_profile: true
 
 ## Co-authored publications:
 
-Baudino, J. L., **Taylor, J.**, Irwin, P. G. J., & Garland, R. (2019). <a href="https://doi.org/10.1093/mnras/stz2764"> Towards the analysis of JWST exoplanet spectra: the effective temperature in the context of direct imaging. </a> Monthly Notices of the Royal Astronomical Society, 490(2), 2086-2090.
-
 Irwin, P. G., Parmentier, V., **Taylor, J.**, Barstow, J., Aigrain, S., Lee, G. K., & Garland, R. (2019). <a href="http://arxiv.org/abs/1909.03233v1">2.5-D retrieval of atmospheric properties from exoplanet phase curves: Application to WASP-43b observations</a>. - in review with MNRAS. 
+
+Baudino, J. L., **Taylor, J.**, Irwin, P. G. J., & Garland, R. (2019). <a href="https://doi.org/10.1093/mnras/stz2764"> Towards the analysis of JWST exoplanet spectra: the effective temperature in the context of direct imaging. </a> Monthly Notices of the Royal Astronomical Society, 490(2), 2086-2090.
 
 Lee, G. K., **Taylor, J.**, Grimm, S. L., Baudino, J. L., Garland, R., Irwin, P. G., & Wood, K. (2019).  
 <a href="https://academic.oup.com/mnras/article-abstract/487/2/2082/5497934?redirectedFrom=fulltext">Exoplanetary Monte Carlo radiative transfer with correlated-k – I. Benchmarking transit and emission observables</a>. Monthly Notices of the Royal Astronomical Society, 487(2), 2082-2096.
