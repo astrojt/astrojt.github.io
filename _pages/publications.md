@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<u><a href="10.1093/mnras/stz2764">Towards the analysis of JWST exoplanet spectra: the effective temperature in the context of direct imaging</a>.</u> - Baudino et al., 2019
+<a href="10.1093/mnras/stz2764">(Towards the analysis of JWST exoplanet spectra: the effective temperature in the context of direct imaging.) - Baudino et al., 2019
 
 <u><a href="http://arxiv.org/abs/1909.03233v1">2.5-D retrieval of atmospheric properties from exoplanet phase curves: Application to WASP-43b observations</a>.</u> - Irwin et al., 2019
 
