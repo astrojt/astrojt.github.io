@@ -18,8 +18,9 @@ Lee, G. K., **Taylor, J.**, Grimm, S. L., Baudino, J. L., Garland, R., Irwin, P.
 <a href="https://academic.oup.com/mnras/article-abstract/487/2/2082/5497934?redirectedFrom=fulltext">Exoplanetary Monte Carlo radiative transfer with correlated-k – I. Benchmarking transit and emission observables</a>. Monthly Notices of the Royal Astronomical Society, 487(2), 2082-2096.
 
 ## Telescope Proposals:
-Co-I Spitzer Proposal ID #14325
-Co-I LCO2019B-021
+- Co-I Spitzer Proposal ID #14325
+
+- Co-I LCO2019B-021
 
 ## Consortium publications:
 
