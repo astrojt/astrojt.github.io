@@ -19,6 +19,7 @@ Lee, G. K., **Taylor, J.**, Grimm, S. L., Baudino, J. L., Garland, R., Irwin, P.
 
 ## Telescope Proposals:
 Co-I Spitzer Proposal ID #14325
+Co-I LCO2019B-021
 
 ## Consortium publications:
 
