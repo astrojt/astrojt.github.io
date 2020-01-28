@@ -11,7 +11,7 @@ I did my undergraduate degree in Astrophysics at UCL. By some form of luck Prof 
 I decided to accept a position to study for a PhD at the University of Oxford to keep working on exoplanet atmospheres. My interests include:
 - Understanding the impact that clouds have on the thermal emission of planets 
 - Developing effective techniques to better interpret future space based observations
-- Understandng the biases that arise from inadequate modelling of atmospheres and the impact this has on the interpretation
+- Understanding the biases that arise from inadequate modelling of atmospheres and the impact this has on the interpretation
 - Understanding the global climate of planets by modelling their spectral phase curves
 
 Working with Prof. Vivien Parmentier, Prof. Patrick Irwin and Prof. Suzanne Aigrain has given me the opportunity to explore these ideas.
