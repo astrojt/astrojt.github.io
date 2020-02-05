@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Lead author publications:
-**Taylor, J.**, Parmentier, V., Irwin, P. G., Aigrain, S., Lee, G. K. & Krissansen-Totton, J. (2020) Understanding and Mitigating Biases when studying Inhomogeneous Emission Spectra with JWST - in review with MNRAS.
+**Taylor, J.**, Parmentier, V., Irwin, P. G., Aigrain, S., Lee, G. K. & Krissansen-Totton, J. (2020) <a href="https://arxiv.org/pdf/2002.00773">Understanding and Mitigating Biases when studying Inhomogeneous Emission Spectra with JWST</a> - in review with MNRAS.
 
 ## Co-authored publications:
 
