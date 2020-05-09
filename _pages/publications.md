@@ -10,7 +10,7 @@ author_profile: true
 
 ## Co-authored publications:
 
-Edwards, B., Changeat, Q., Baeyens, R., Tsiaras, A., Al-Refaie, A., Taylor, J., ... & Guilluy, G. (2020). <a href="https://arxiv.org/pdf/2005.02374.pdf">ARES I: WASP-76 b, A Tale of Two HST Spectra
+Edwards, B., Changeat, Q., Baeyens, R., Tsiaras, A., Al-Refaie, A., **Taylor, J.**, ... & Guilluy, G. (2020). <a href="https://arxiv.org/pdf/2005.02374.pdf">ARES I: WASP-76 b, A Tale of Two HST Spectra
 </a> - Accepted for publication with ApJ.
 
 Edwards, B., Changeat, Q., Yip, K. H., Tsiaras, A., **Taylor, J.**, Akhtar, B., ... & Huang, M. (2020). <a href="https://arxiv.org/pdf/2005.01684.pdf">Original Research By Young Twinkle Students (ORBYTS): Ephemeris Refinement of Transiting Exoplanets</a> Monthly Notices of the Royal Astronomical Society.
