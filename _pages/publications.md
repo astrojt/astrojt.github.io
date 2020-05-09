@@ -6,11 +6,16 @@ author_profile: true
 ---
 
 ## Lead author publications:
-**Taylor J.**, Parmentier V., Irwin P. G., Aigrain S., Lee G. K. & Krissansen-Totton J. (2020) <a href="https://arxiv.org/pdf/2002.00773">Understanding and Mitigating Biases when studying Inhomogeneous Emission Spectra with JWST</a> - Accepted for publication with MNRAS.
+**Taylor J.**, Parmentier V., Irwin P. G., Aigrain S., Lee G. K. & Krissansen-Totton J. (2020) <a href="https://academic.oup.com/mnras/article-abstract/493/3/4342/5766315?redirectedFrom=fulltext">Understanding and Mitigating Biases when studying Inhomogeneous Emission Spectra with JWST</a> - Monthly Notices of the Royal Astronomical Society, 493(3), 4342-4354.
 
 ## Co-authored publications:
 
-Irwin P. G., Parmentier V., **Taylor J.**, Barstow J., Aigrain S., Lee G. K., & Garland R. (2020). <a href="https://academic.oup.com/mnras/advance-article-abstract/doi/10.1093/mnras/staa238/5715917?redirectedFrom=fulltext">2.5-D retrieval of atmospheric properties from exoplanet phase curves: Application to WASP-43b observations</a> Monthly Notices of the Royal Astronomical Society.
+Edwards, B., Changeat, Q., Baeyens, R., Tsiaras, A., Al-Refaie, A., Taylor, J., ... & Guilluy, G. (2020). <a href="https://arxiv.org/pdf/2005.02374.pdf">ARES I: WASP-76 b, A Tale of Two HST Spectra
+</a> - Accepted for publication with ApJ.
+
+Edwards, B., Changeat, Q., Yip, K. H., Tsiaras, A., **Taylor, J.**, Akhtar, B., ... & Huang, M. (2020). <a href="https://arxiv.org/pdf/2005.01684.pdf">Original Research By Young Twinkle Students (ORBYTS): Ephemeris Refinement of Transiting Exoplanets</a> Monthly Notices of the Royal Astronomical Society.
+
+Irwin P. G., Parmentier V., **Taylor J.**, Barstow J., Aigrain S., Lee G. K., & Garland R. (2020). <a href="https://academic.oup.com/mnras/advance-article-abstract/doi/10.1093/mnras/staa238/5715917?redirectedFrom=fulltext">2.5-D retrieval of atmospheric properties from exoplanet phase curves: Application to WASP-43b observations</a> Monthly Notices of the Royal Astronomical Society, 493(1), 106-125.
 
 Baudino J. L., **Taylor J.**, Irwin P. G. J., & Garland R. (2019). <a href="https://doi.org/10.1093/mnras/stz2764"> Towards the analysis of JWST exoplanet spectra: the effective temperature in the context of direct imaging. </a> Monthly Notices of the Royal Astronomical Society, 490(2), 2086-2090.
 
