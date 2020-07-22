@@ -23,4 +23,4 @@ I have organised Out Thinkers events in Oxford and helped to organise others in 
 
 Our work has been internationally recognised. We have had articles written about us in [Nature](https://www.nature.com/articles/d41586-019-02022-8?utm_source=twt_nnc&utm_medium=social&utm_campaign=naturenews&sf215296903=1) and [BBC News](https://www.bbc.co.uk/news/science-environment-48884806). We have also been part of the development and organisation of #LGBTSTEMday which has had the support from a lot of science organisations including [ESA](https://twitter.com/esa/status/1147069791041142784?s=20) and [CERN](https://home.cern/news/news/cern/celebrating-diversity-science).
 
-![Pride in STEM at London Pride](https://scontent.flhr1-1.fna.fbcdn.net/v/t1.0-9/36830204_10157687388734741_8961550671576825856_o.jpg?_nc_cat=103&_nc_sid=e3f864&_nc_ohc=zn0DjdsDQyIAX9MzjaB&_nc_ht=scontent.flhr1-1.fna&oh=322806ac37db807fd0893f7b4764ab40&oe=5F072A1A)
+![Pride in STEM at London Pride](/images/PrideinSTEM.jpg)
