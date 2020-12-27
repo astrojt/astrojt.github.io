@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 ## Lead author publications:
+
+**Taylor J.**, Parmentier V., Line. R. M., Lee G. K., Irwin P. G. & Aigrain S. (2020) <a href="https://ui.adsabs.harvard.edu/abs/2020arXiv200912411T/abstract">How Does Thermal Scattering Shape the Infrared Spectra of Cloudy Exoplanets? A Theoretical Framework and Consequences for Atmospheric Retrievals in the JWST era</a> - eprint arXiv:2009.12411
+
 **Taylor J.**, Parmentier V., Irwin P. G., Aigrain S., Lee G. K. & Krissansen-Totton J. (2020) <a href="https://academic.oup.com/mnras/article-abstract/493/3/4342/5766315?redirectedFrom=fulltext">Understanding and Mitigating Biases when studying Inhomogeneous Emission Spectra with JWST</a> - Monthly Notices of the Royal Astronomical Society, 493(3), 4342-4354.
 
 ## Co-authored publications:
